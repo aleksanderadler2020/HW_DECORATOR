@@ -1,0 +1,2 @@
+Время вызова: 2023-11-11 15:13:33.498357 Наименование метода: __enter__((<__main__.context_manager object at 0x7f0bdce1c4f0>,)) Результат функции: None
+Время вызова: 2023-11-11 15:13:33.498404 Наименование метода: __exit__((<__main__.context_manager object at 0x7f0bdce1c4f0>, None, None, None)) Результат функции: None
